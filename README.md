@@ -29,8 +29,10 @@ Final model predictive accuracy
 Do your best to optimize your model training and input data to achieve a target predictive accuracy higher than 75%.
 
 ## Summary Questions 
-How many neurons and layers did you select for your neural network model? Why?
+### How many neurons and layers did you select for your neural network model? Why?
 
-Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
 
-If you were to implement a different model to solve this classification problem, which would you choose? Why?
+
+### Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
+
+### If you were to implement a different model to solve this classification problem, which would you choose? Why?
