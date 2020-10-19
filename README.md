@@ -28,11 +28,7 @@ Final model predictive accuracy
 
 Do your best to optimize your model training and input data to achieve a target predictive accuracy higher than 75%.
 
-## Summary Questions 
-### How many neurons and layers did you select for your neural network model? Why?
+## Summary
 
+For the Nueral Network Model, within Layer 1 I selected 8 nuerons, however, for Layer 2 I ran 5. In order to improve accuracy from a very low 0.533, I figured changing the number of layers could possibly improve its accuaracy. Unfortunately that was not the case for this model. I was able to identify the issues with working wioth a Deep Neural Network as opposed to a Single Layer Network. The Single Layer Network proved to be much more accurate at 0.722. This finding can conclude that while having additional layers can be beneficial, in this case, it did not improve the performance. 
 
-
-### Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
-
-### If you were to implement a different model to solve this classification problem, which would you choose? Why?
